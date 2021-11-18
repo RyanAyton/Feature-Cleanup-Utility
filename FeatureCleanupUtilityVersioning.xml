@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeatureCleanupUtility>
+    <PME>
+	    <Version>1.21</Version>
+    </PME>
+    <MAV>
+        <Version>1.00</Version>
+    </MAV>
+    <AVD>
+        <Version>1.00</Version>
+    </AVD>
+    <TakeControlStandalone>
+        <Version>1.00</Version>
+    </TakeControlStandalone>
+    <TakeControlIntegrated>
+        <Version>1.00</Version>
+    </TakeControlIntegrated>
+</FeatureCleanupUtility>
