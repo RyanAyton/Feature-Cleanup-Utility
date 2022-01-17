@@ -2273,7 +2273,7 @@
           </Obj>
         </MS>
       </Obj>
-      <S N="ExpiredRequest">FALSE</S>
+      <S N="ExpiredRequest">TRUE</S>
     </MS>
   </Obj>
   <Obj RefId="378">
@@ -2393,6 +2393,24 @@
         <DT>2022-01-18T19:47:58</DT>
         <MS>
           <Obj N="DisplayHint" RefId="398">
+            <TNRef RefId="1" />
+            <ToString>DateTime</ToString>
+            <I32>2</I32>
+          </Obj>
+        </MS>
+      </Obj>
+      <S N="ExpiredRequest">FALSE</S>
+    </MS>
+  </Obj>
+  <Obj RefId="399">
+    <TNRef RefId="0" />
+    <MS>
+      <DT N="Completion time">2022-01-17T08:37:41</DT>
+      <S N="Salesforce Case Number">01890861</S>
+      <Obj N="ExpiryDate" RefId="400">
+        <DT>2022-01-24T08:37:41</DT>
+        <MS>
+          <Obj N="DisplayHint" RefId="401">
             <TNRef RefId="1" />
             <ToString>DateTime</ToString>
             <I32>2</I32>
