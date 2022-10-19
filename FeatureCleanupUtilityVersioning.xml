@@ -10,12 +10,12 @@
         <Version>1.00</Version>
     </MAV>
     <AVD>
-        <Version>1.00</Version>
+        <Version>1.01</Version>
     </AVD>
     <EDR>
         <Version>1.00</Version>
     </EDR>
     <NCAgent>
-        <Version>1.00</Version>
+        <Version>1.15</Version>
     </NCAgent>
 </FeatureCleanupUtility>
